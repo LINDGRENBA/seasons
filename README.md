@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Geolocation API
 * Git & Github
 * VS Code
-* Semantic-ui  
+* [Semantic-ui](https://semantic-ui.com/views/card.html)  
 <br/>
 
 ### Developer Notes
