@@ -1,13 +1,20 @@
+## Seasons Application
 
+This project is a small application in React, meant to get the user's location and display what the weather is likely to be in the current location during the current season.   
+<br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+<br/>  
 
 ### Tools & Technology
-React
-Geolocation API
+* React
+* Geolocation API
+* Git & Github
+* VS Code
+* Semantic-ui  
+<br/>
 
-
+### Developer Notes
 To force location in the browser
 1. open console
 2. hit `esc`
